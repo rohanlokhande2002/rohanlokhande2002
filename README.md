@@ -61,3 +61,18 @@
 ---
 
 ⭐ _“Technology is not just a tool—it’s a bridge to create, innovate, and solve.”_  
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanlokhande2002&show_icons=true&theme=merko" alt="Rohan's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohanlokhande2002&theme=merko&date_format=M%20j%5B%2C%20Y%5D" alt="Rohan's GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanlokhande2002&layout=compact&theme=merko" alt="Rohan's Top Languages" />
+</p>
+
