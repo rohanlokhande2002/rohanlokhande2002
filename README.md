@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/rohanlokhande2002">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: grayscale(100%);" />  </a>
   <a href="https://www.linkedin.com/in/rohan-lokhande-7768b9230">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
   </a>
